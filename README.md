@@ -1,5 +1,8 @@
 #Memory Management
-This repository contains implementations of various Memory Management techniques in C++ and Python programming languages.
+
+
+
+This repository contains implementations of various Memory Management techniques in C++  programming languages.
 
 Table of Contents
 Introduction
